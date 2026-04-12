@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../../Dev"
+		},
+		{
+			"name": "pedrof",
+			"path": "../../../../Dev/pedrof"
+		},
+		{
+			"name": "Atmega_CanBUS",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
